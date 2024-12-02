@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Results on AWS System Manager</title>
+    <title>Test Results on Serverless Website</title>
     <link>https://tai10012003.github.io/7-testresults/</link>
-    <description>Recent content in Test Results on AWS System Manager</description>
+    <description>Recent content in Test Results on Serverless Website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://tai10012003.github.io/7-testresults/index.xml" rel="self" type="application/rss+xml" />

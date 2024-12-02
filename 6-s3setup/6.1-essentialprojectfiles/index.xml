@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Essential project files on AWS System Manager</title>
+    <title>Essential project files on Serverless Website</title>
     <link>https://tai10012003.github.io/6-s3setup/6.1-essentialprojectfiles/</link>
-    <description>Recent content in Essential project files on AWS System Manager</description>
+    <description>Recent content in Essential project files on Serverless Website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://tai10012003.github.io/6-s3setup/6.1-essentialprojectfiles/index.xml" rel="self" type="application/rss+xml" />
